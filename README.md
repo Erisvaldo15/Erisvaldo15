@@ -5,10 +5,10 @@
 </p>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Erisvaldo15&show_icons=true&theme=radical" alt="Imagem de Estatística sobre Erisvaldo"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=Erisvaldo15&show_icons=true&theme=merko&locale=pt-br" alt="Imagem de Estatística sobre Erisvaldo"> 
 </div>
 
-### Ferramentas 
+### 🖥️ Ferramentas 
 <hr>
 
 <div>
@@ -21,5 +21,6 @@
  <a href="https://www.linkedin.com/in/erisvaldo-silva-de-sousa-645119204/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
  <a href="https://www.instagram.com/eris_valdo16/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
    
-   <h3> informações Extras! </h3>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erisvaldo15&layout=demo)](https://github.com/Erisvaldo15/github-readme-stats)
+   <h3> ➕ informações Extras! </h3>
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erisvaldo15&layout=compact)](https://github.com/Erisvaldo15/github-readme-stats)
