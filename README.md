@@ -1,7 +1,7 @@
   ## Welcome to my GitHub, see some informations about me next down. 👨‍🦱
 
 <p style="text-align: justify; align: left"> 
-    Hello, my name is Erisvaldo and i have 16 years. Today study for be one Developer Full-Stack. In Future I will be opened for oportunity of jobs, in moment continuous the study in PHP. More informations about me next down.
+    Hello, my name's Erisvaldo and i'm 16 years old. I'm Studying to become a Full-Stack Developer. Current, i'm pursuing a degree in Analysis and Systems Development at Unicesumar.
 </p>
 
 <p> Location: Brazil, Nova Odessa - SP </p>
@@ -11,7 +11,7 @@
 
 
 <div style="margin-top: 20px">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,vue" />
 </div>
 <p style="font-weight: bold; margin-top: 10px"> *  Where you possible me sourch: </p> 
 
