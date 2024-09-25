@@ -11,7 +11,7 @@
 
 
 <div style="margin-top: 20px">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,vue,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,vue,sass,ts,bootstrap,docker" />
 </div>
 <p style="font-weight: bold; margin-top: 10px"> *  Where you possible me sourch: </p> 
 
